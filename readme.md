@@ -1,2 +1,2 @@
 #nev
-#böngészőből javítottam
+böngészőből javítottam
