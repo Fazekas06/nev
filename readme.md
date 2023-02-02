@@ -1,1 +1,2 @@
-#new
+#nev
+#vs code javítás
