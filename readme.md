@@ -1,1 +1,2 @@
-#new
+#nev
+#böngészőből javítottam
