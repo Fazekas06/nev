@@ -1,0 +1,18 @@
+*{
+    position: absolute;
+width: 1296px;
+height: 858px;
+left: 0px;
+top: 0px;
+
+background: #FFEEE1;
+}
+table,td,tr{
+    background-color: rgb(114, 85, 30);
+    color: white;
+    margin: 20px;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
