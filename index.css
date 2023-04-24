@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(255, 238, 225);
+    margin: auto;
+}
+table,td,tr{
+    background-color: rgb(114,85,30);
+    margin: 10px;
+    color: white;
+    
+}
+table{
+    float: left;
+}
